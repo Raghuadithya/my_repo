@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 Original file content
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+HELLO
+=======
+hello
+>>>>>>> 5fe859f3d1ba018adf41b54e9e8cefa2bee70607
+=======
+Have a good day!
+>>>>>>> 0a3b0189727d9f0985b69fa083665ccb026ad6e3
+>>>>>>> 6d6ee5fbe6b32dad1a6a119d49f3d7d2cfc1baab
