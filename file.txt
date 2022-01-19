@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 This is a relevant fact\n
 This is also relevant\n
 Perhaps this is the most relevant\n
 This is the prime directive\n
 NEVER change public history
+=======
+<<<<<<< HEAD
+wht about u
+=======
+<<<<<<< HEAD
+This is an indispensable truth!
+This is a relevant fact
+
+=======
+wht about u
+>>>>>>> 0a3b0189727d9f0985b69fa083665ccb026ad6e3
+>>>>>>> 5fe859f3d1ba018adf41b54e9e8cefa2bee70607
+>>>>>>> cad33a0336fdc9884b8caabbac488f9fb954c72a
