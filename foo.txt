@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 initial
+=======
+foo
+>>>>>>> 34316452affab7c0ff43b4fb87a492ecb9b45c0b
