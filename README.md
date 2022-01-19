@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 maintainer: randomsort
 ---
@@ -180,3 +181,6 @@ You can remove testing artifacts, `exercise` directories, with the git clean com
 ```sh
 git clean -ffdX
 ```
+=======
+
+>>>>>>> 8b3541d68ff41879c3c89693157bb255cc428be8

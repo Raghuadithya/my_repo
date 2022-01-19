@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 git_attributes
 *~
 *.swp
 **/exercise
 **/remote
+=======
+*.s
+*.txt
+!file2.txt
+>>>>>>> 8b3541d68ff41879c3c89693157bb255cc428be8
