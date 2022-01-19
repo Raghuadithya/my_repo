@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello
+=======
+Have a good day!
+>>>>>>> 0a3b0189727d9f0985b69fa083665ccb026ad6e3
