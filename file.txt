@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 wht about u
+=======
+<<<<<<< HEAD
+This is an indispensable truth!
+This is a relevant fact
+
+=======
+wht about u
+>>>>>>> 0a3b0189727d9f0985b69fa083665ccb026ad6e3
+>>>>>>> 5fe859f3d1ba018adf41b54e9e8cefa2bee70607
